@@ -1,4 +1,4 @@
-console.log("Hello");
+console.log("Codeine Dreaming");
 
 const weatherForm = document.querySelector('.search-field')
 const searchData = document.querySelector('input')
